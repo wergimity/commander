@@ -1,0 +1,20 @@
+{
+    "name": "wergimity/commander",
+    "description": "",
+    "authors": [
+        {
+            "name": "Rytis Raslavičius",
+            "email": "rytis.raslavicius@agmis.lt"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Wergimity\\Commander": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
